@@ -10,7 +10,7 @@ Overview
 ########
 
 Hello! I'm Dmitry. Nice to meet you!
-I've 8+ years of experience in Linux System Administration (installing, configuring, maintaining, monitoring, troubleshooting Linux servers and services) . I worked closely with development team at my previous job. My responsibilities included:
+I've 8+ years of experience in Linux System Administration (installing, configuring, maintaining, monitoring, troubleshooting Linux servers and services). I worked closely with development team at my previous job. My responsibilities included:
 
  - Linux servers (based on CentOS, Debian, Ubuntu) on dedicated and virtual servers.
  - KVM virtualization, iptables, routing, Linux kernel tuning.

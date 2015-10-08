@@ -2,7 +2,7 @@ Title: Kippo in Docker
 Date: 2015-09-28 23:24
 Category: docker
 
-# Lightweight Kippo SSH Honeypot (81 MB) based on Alpine Linux
+### Lightweight Kippo SSH Honeypot (81 MB) based on Alpine Linux
 
 Move your real ssh port from default 22 to another (for ex. 22000)
 

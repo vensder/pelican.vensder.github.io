@@ -1,10 +1,10 @@
-Title: About
+Title: About me
 Date: 2015-09-28 19:55
 Category: about
-
-Linux system administrator
-
 Tags: CentOS, Linux System Administration, Unix System Administration, Zabbix, Apache administration, Nginx, KVM Virtualization, phpMyAdmin, OpenVPN, Docker 
+
+### I'm Linux system administrator
+
 
 Overview
 ########

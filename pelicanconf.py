@@ -17,11 +17,11 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Vensder'
 SITENAME = u'Vensder\'s B10g'
-SITEURL = 'http://vensder.github.io'
+SITEURL = 'https://vensder.github.io'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Moscow'
+TIMEZONE = 'Pacific/Auckland'
 
 DEFAULT_LANG = u'en'
 
@@ -57,7 +57,7 @@ DEFAULT_PAGINATION = 10
 #THEME = "themes/pelican-sundown"
 THEME = "themes/pure-single"
 
-#SITELOGO = "images/tuxup_100.jpg"
+SITELOGO = "images/tuxup_100.jpg"
 
 DISQUS_SITENAME = "vensdersb00l10g"
 

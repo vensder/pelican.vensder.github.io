@@ -1,8 +1,8 @@
-Title: Virtualenv for Python in CentOS
+Title: Virtualenv for Python on CentOS 6 / RHEL 6
 Date: 2015-10-03 11:04
 Category: python
 
-Virtualenv for Python in CentOS
+Virtualenv for Python on CentOS 6 / RHEL 6
 ###############################
 
 ```log
@@ -24,12 +24,12 @@ cd ~/work/<project_name>
 mkdir venv && echo "Virtualenv directory" > venv/README
 git add venv && echo "/venv/" >> .gitignore && git add -f .gitignore
 virtualenv --no-site-packages --prompt="(<project_name>)" <venv_name>
-
 ```
 
-```
+```sh
 source ~/venv/<venv_name>/bin/activate
 ```
-```
+
+```sh
 deactivate
 ```

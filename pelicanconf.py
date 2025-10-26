@@ -61,9 +61,8 @@ SITELOGO = "images/tuxup_100.jpg"
 
 DISQUS_SITENAME = "vensdersb00l10g"
 
-COVER_IMG_URL = "http://vensder.github.io/images/datacenter.jpg"
+COVER_IMG_URL = "https://vensder.github.io/images/datacenter.jpg"
 
-PROFILE_IMG_URL = "http://vensder.github.io/images/tuxup.jpg"
+PROFILE_IMG_URL = "https://vensder.github.io/images/tuxup.jpg"
 
-FAVICON_URL = "http://linuxforchildren.com/templates/tuxy_main/favicon.ico"
-
+FAVICON_URL = "https://vensder.github.io/favicon.ico"

@@ -40,7 +40,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
-          ('external-link-square', 'http://linuxforchildren.com'),
+          ('external-link-square', 'https://linuxforchildren.free.nf'),
           ('linkedin-square', 'https://www.linkedin.com/in/vensder'),
           ('facebook-square', 'https://www.facebook.com/vensder'),
           ('twitter-square', 'https://twitter.com/v3n5d3r')
